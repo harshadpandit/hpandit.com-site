@@ -69,10 +69,10 @@ gulp.task('copy', function() {
       '!**/bootstrap-theme.*',
       '!**/*.map'
     ])
-    .pipe(gulp.dest('vendor/bootstrap'))
+    .pipe(gulp.dest('vendor/bootstrap'));
 
   gulp.src(['node_modules/jquery/dist/jquery.js', 'node_modules/jquery/dist/jquery.min.js'])
-    .pipe(gulp.dest('vendor/jquery'))
+    .pipe(gulp.dest('vendor/jquery'));
 
   gulp.src([
       'node_modules/font-awesome/**',
@@ -82,8 +82,12 @@ gulp.task('copy', function() {
       '!node_modules/font-awesome/*.md',
       '!node_modules/font-awesome/*.json'
     ])
-    .pipe(gulp.dest('vendor/font-awesome'))
-})
+    .pipe(gulp.dest('vendor/font-awesome'));
+
+  gulp.src(['js/clean-blog.min.js']).pipe(gulp.dest('js'));
+  gulp.src(['css/clean-blog.min.css']).pipe(gulp.dest('css'));
+  gulp.src(['img/*']).pipe(gulp.dest('img'));
+});
 
 // Default task
 gulp.task('default', ['sass', 'minify-css', 'minify-js', 'copy']);
