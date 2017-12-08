@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/hpandit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hpandit.com
+  * I am hpandit (https://keybase.io/hpandit) on keybase.
+  * I have a public key ASBLIV7iQNbGDGTu5eK2fXCVZhlgpAcmrQMZ58yc-nzdYQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204b215ee240d6c60c64eee5e2b67d7095661960a40726ad0319e7cc9cfa7cdd610a",
+      "host": "keybase.io",
+      "kid": "01204b215ee240d6c60c64eee5e2b67d7095661960a40726ad0319e7cc9cfa7cdd610a",
+      "uid": "0f137bf83c75f2c0f9452327246b1519",
+      "username": "hpandit"
+    },
+    "merkle_root": {
+      "ctime": 1512743253,
+      "hash": "f48629003c50b729c194ef9f0674c0241224361f59eb58260f8a3ca2afd8fab9917f8b2e02f3a6b7725275fae8e17d79db0a7d19a50c853b66c8fb50de62079a",
+      "hash_meta": "d997ae9fc494efeafce41e4797932cd32dfc03478a3a691b02bf0d2372eeaef8",
+      "seqno": 1791191
+    },
+    "service": {
+      "hostname": "hpandit.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1512743276,
+  "expire_in": 504576000,
+  "prev": "356bd5713432f4b9fdf6da9be502a26b3a344c38192ef24f308ed2828a3ed9d6",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSyFe4kDWxgxk7uXitn1wlWYZYKQHJq0DGefMnPp83WEKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGIyMTVlZTI0MGQ2YzYwYzY0ZWVlNWUyYjY3ZDcwOTU2NjE5NjBhNDA3MjZhZDAzMTllN2NjOWNmYTdjZGQ2MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGIyMTVlZTI0MGQ2YzYwYzY0ZWVlNWUyYjY3ZDcwOTU2NjE5NjBhNDA3MjZhZDAzMTllN2NjOWNmYTdjZGQ2MTBhIiwidWlkIjoiMGYxMzdiZjgzYzc1ZjJjMGY5NDUyMzI3MjQ2YjE1MTkiLCJ1c2VybmFtZSI6ImhwYW5kaXQifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTI3NDMyNTMsImhhc2giOiJmNDg2MjkwMDNjNTBiNzI5YzE5NGVmOWYwNjc0YzAyNDEyMjQzNjFmNTllYjU4MjYwZjhhM2NhMmFmZDhmYWI5OTE3ZjhiMmUwMmYzYTZiNzcyNTI3NWZhZThlMTdkNzlkYjBhN2QxOWE1MGM4NTNiNjZjOGZiNTBkZTYyMDc5YSIsImhhc2hfbWV0YSI6ImQ5OTdhZTlmYzQ5NGVmZWFmY2U0MWU0Nzk3OTMyY2QzMmRmYzAzNDc4YTNhNjkxYjAyYmYwZDIzNzJlZWFlZjgiLCJzZXFubyI6MTc5MTE5MX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJocGFuZGl0LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTEyNzQzMjc2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjM1NmJkNTcxMzQzMmY0YjlmZGY2ZGE5YmU1MDJhMjZiM2EzNDRjMzgxOTJlZjI0ZjMwOGVkMjgyOGEzZWQ5ZDYiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAAkuwMV/J1Z96QDiYZp9qOy120y3yMneyyhmJunuLByQtf0BKNRjo7R8Dag9+6dElIE/JW4RyTsUlTwCHZIf1C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOvhcvuanUzNfBDNwjKVWt7kio0qOFcvLbnk5JalwaIYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hpandit
+
+==================================================================
